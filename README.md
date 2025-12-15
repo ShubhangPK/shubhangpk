@@ -1,4 +1,4 @@
-# Hi, I’m Shubhang 👋
+# Hi, I’m Shubhang Kaushik 👋
 
 I’m a software engineer focused on **Linux kernel development**, **performance engineering**, and **scalable systems**. I enjoy working close to the hardware and building software that behaves well under real workloads.
 
