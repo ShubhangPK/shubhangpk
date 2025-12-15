@@ -12,8 +12,5 @@ AWS · Azure · GCP · Docker · Kubernetes · perf · ftrace · Git · Gerrit
 
 ---
 
-Upstream kernel work:  
-https://lore.kernel.org/all/?q=f:shubhang
-
 📧 shubhangpk@gmail.com  
 💼 https://www.linkedin.com/in/shubhangpk
