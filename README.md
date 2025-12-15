@@ -6,6 +6,11 @@ I currently work at **Ampere Computing** on kernel scalability and performance f
 
 ---
 
+📧 **shubhangpk@gmail.com**  
+💼 **https://www.linkedin.com/in/shubhangpk**
+
+---
+
 ## Tech
 
 ### Languages
@@ -43,8 +48,3 @@ I currently work at **Ampere Computing** on kernel scalability and performance f
 ![ftrace](https://img.shields.io/badge/ftrace-Linux-black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Gerrit](https://img.shields.io/badge/Gerrit-EEEEEE?logo=gerrit&logoColor=black)
-
----
-
-📧 **shubhangpk@gmail.com**  
-💼 **https://www.linkedin.com/in/shubhangpk**
