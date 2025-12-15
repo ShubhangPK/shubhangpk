@@ -6,14 +6,6 @@ I currently work at **Ampere Computing** on kernel scalability and performance f
 
 ---
 
-## Focus
-- Linux kernel scheduling, concurrency, memory
-- Performance analysis and benchmarking
-- CPU-based AI/ML inference optimization
-- Backend and distributed systems
-
----
-
 ## Tech
 C, C++, Rust, Go, Python · Linux · REST/gRPC · Kafka · Spark · PostgreSQL · MongoDB ·  
 AWS · Azure · GCP · Docker · Kubernetes · perf · ftrace · Git · Gerrit
